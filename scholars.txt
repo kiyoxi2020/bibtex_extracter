@@ -1,0 +1,85 @@
+[18]	 Robinson, E. A. (1967). Predictive decomposition of time series with application to seismic exploration. Geophysics, 32(3), 418-484.
+[19]	 Robinson E A, Treitel S. Geophysical signal analysis[M]. Society of Exploration Geophysicists, 2000.
+[20]	 Lindseth, R. O. (1979). Synthetic sonic logs—A process for stratigraphic interpretation. Geophysics, 44(1), 3-26.
+[21]	 Ferguson, R. J., & Margrave, G. F. (1996). A simple algorithm for band-limited impedance inversion. CREWES annual.
+[22]	 Cooke D A, Schneider W A. Generalized linear inversion of reflection seismic data[J]. Geophysics, 1983, 48(6): 665-676.
+[23]	 Virieux J, Operto S. An overview of full-waveform inversion in exploration geophysics[J]. Geophysics, 2009, 74(6): WCC1-WCC26.
+[24]	 Noriega R F, Ramirez A B, Abreo S A, et al. Implementation strategies of the seismic full waveform inversion[C]//2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017: 1567-1571.
+[25]	 Carron, D. (1989, January). High Resolution Acoustic Impedance Cross-Sections From Wireline And Seismic Data. In SPWLA 30th Annual Logging Symposium. Society of Petrophysicists and Well-Log Analysts.
+[26]	 Vest R T. Seismic data inversion using geologic constraints[M]//SEG Technical Program Expanded Abstracts 1990. Society of Exploration Geophysicists, 1990: 1151-1153.
+[27]	 de Figueiredo L P, Santos M, Roisenberg M, et al. Bayesian framework to wavelet estimation and linearized acoustic inversion[J]. IEEE Geoscience and Remote Sensing Letters, 2014, 11(12): 2130-2134.
+[28]	 Zhang G Z, Pan X P, Li Z Z, et al. Seismic fluid identification using a nonlinear elastic impedance inversion method based on a fast Markov chain Monte Carlo method[J]. Petroleum Science, 2015, 12(3): 406-416.
+[29]	Isermann R. Supervision, fault-detection and fault-diagnosis methods—an introduction[J]. Control engineering practice, 1997, 5(5): 639-652.
+[30]	Wu X, Liang L, Shi Y, et al. Deep learning for local seismic image processing: Fault detection, structure-oriented smoothing with edge-preserving, and slope estimation by using a single convolutional neural network[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2222-2226.
+[31]	Di H, Li Z, Maniar H, et al. Seismic stratigraphy interpretation via deep convolutional neural networks[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2358-2362.
+[32]	Vail P R. Seismic stratigraphy interpretation using sequence stratigraphy: Part 1: Seismic stratigraphy interpretation procedure[J]. 1987.
+[33]	Jervis M, Liu M, Li W, et al. Deep learning network optimization and hyper-parameter tuning[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2283-2287.
+[34]	Liu D, Wang X, Chen W, et al. 3D seismic waveform of channels extraction by artificial intelligence[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2518-2522.
+[35]	Coppens F. First arrival picking on common‐offset trace collections for automatic estimation of static corrections[J]. Geophysical Prospecting, 1985, 33(8): 1212-1231.
+[36]	Ma Y, Cao S, Rector J W, et al. Automatic first arrival picking for borehole seismic data using a pixel-level network[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2463-2467.
+[37]	Doyen P. Seismic reservoir characterization: An earth modelling perspective[M]. Houten: EAGE publications, 2007.
+[38]	Xu P, Lu W, Tang J, et al. High-Resolution Reservoir Prediction Using Convolutional Neural Networks[C]//81st EAGE Conference and Exhibition 2019. 2019.
+[39]	LeCun Y, Bengio Y, Hinton G. Deep learning[J]. nature, 2015, 521(7553): 436.
+[40]	Ma J. Deep learning for attenuating random and coherence noise simultaneously[C]//80th EAGE Conference and Exhibition 2018. 2018.
+[41]	Liu J, Lu W, Zhang P. Random Noise Attenuation Using Convolutional Neural Networks[C]//80th EAGE Conference and Exhibition 2018. 2018.
+[42]	Jia Z, Lu W, Zhang M, et al. Separating ground-roll from land seismic record via convolutional neural network[C]//SEG 2018 Workshop: SEG Maximizing Asset Value Through Artificial Intelligence and Machine Learning, Beijing, China, 17-19 September 2018. Society of Exploration Geophysicists and the Chinese Geophysical Society, 2019: 60-63.
+[43]	Zhao T. 3D convolutional neural networks for efficient fault detection and orientation estimation[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2418-2422.
+[44]	Jia Z, Lu W. CNN-Based Ringing Effect Attenuation of Vibroseis Data for First-Break Picking[J]. IEEE Geoscience and Remote Sensing Letters, 2019.
+[45]	Das V, Pollack A, Wollner U, et al. Convolutional neural network for seismic impedance inversion[J]. Geophysics, 2019, 84(6): 1-66.
+[46]	Wu Y, McMechan G A. Feature-capturing full waveform inversion using a convolutional neural network[M]//SEG Technical Program Expanded Abstracts 2018. Society of Exploration Geophysicists, 2018: 2061-2065.
+[47]	Richardson A. Seismic full-waveform inversion using deep learning tools and techniques[J]. arXiv preprint arXiv:1801.07232, 2018.
+[48]	Mosser L, Dubrule O, Blunt M. Stochastic seismic waveform inversion using generative adversarial networks as a geological prior[C]//First EAGE/PESGB Workshop Machine Learning. 2018.
+[49]	Wong S C, Gatt A, Stamatescu V, et al. Understanding data augmentation for classification: when to warp?[C]//2016 international conference on digital image computing: techniques and applications (DICTA). IEEE, 2016: 1-6.
+[50]	Perez L, Wang J. The effectiveness of data augmentation in image classification using deep learning[J]. arXiv preprint arXiv:1712.04621, 2017.
+[51]	Chen T, Lu S, Fan J. SS-HCNN: Semi-supervised hierarchical convolutional neural network for image classification[J]. IEEE Transactions on Image Processing, 2018, 28(5): 2389-2398.
+[52]	Xu P, Lu W, Wang B. A semi-supervised learning framework for gas chimney detection based on sparse autoencoder and TSVM[J]. Journal of Geophysics and Engineering, 2019, 16(1): 52-61.
+[53]	Yosinski J, Clune J, Bengio Y, et al. How transferable are features in deep neural networks?[C]//Advances in neural information processing systems. 2014: 3320-3328.
+[54]	Siahkoohi A, Louboutin M, Herrmann F J. The importance of transfer learning in seismic modeling and imaging[J]. Geophysics, 2019, 84(6): 1-30.
+[55]	Liu M Y, Tuzel O. Coupled generative adversarial networks[C]//Advances in neural information processing systems. 2016: 469-477.
+[56]	Tzeng E, Hoffman J, Saenko K, et al. Adversarial discriminative domain adaptation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 7167-7176.
+[57]	张永刚. 地震波阻抗反演技术的现状和发展[J]. 石油物探, 2002, 41(4): 385-390.
+[58]	Gonzalez R C, Wintz P. Digital image processing(Book)[J]. Reading, Mass., Addison-Wesley Publishing Co., Inc.(Applied Mathematics and Computation, 1977 (13): 451.
+[59]	白彦彬, 杨长春, 井西利. 地质规律约束下的波阻抗反演[J]. 石油物探, 2002, 41(1): 61-64.
+[60]	徐仲达. 地震岩性模拟中的多解性问题[J]. 石油物探, 1995, 34(3): 32-45.
+[61]	Gilboa G, Sochen N, Zeevi Y Y. Texture preserving variational denoising using an adaptive fidelity term[C]//Proc. VLsM. 2003, 3.
+[62]	Lu W. Adaptive noise attenuation of seismic images based on singular value decomposition and texture direction detection[J]. Journal of Geophysics and Engineering, 2006, 3(1): 28-34.
+[63]	彭才, 常智, 朱仕军. 基于曲波变换的地震数据去噪方法[J]. 石油物探, 2008, 47(5): 461-464.
+[64]	Fomel S, Liu Y. Seislet transform and seislet frame[J]. Geophysics, 2010, 75(3): V25-V38.
+[65]	刘鑫, 贺振华, 黄德济. 基于小波变换的地震资料去噪处理研究[J]. 油气地球物理, 2006, 4(4): 15-18.
+[66]	Tang G, Ma J W, Yang H Z. Seismic data denoising based on learning-type overcomplete dictionaries[J]. Applied Geophysics, 2012, 9(1): 27-32.
+[67]	Zhu L, Liu E, McClellan J H. Seismic data denoising through multiscale and sparsity-promoting dictionary learning[J]. Geophysics, 2015, 80(6): WD45-WD57.
+[68]	Zhu L, Liu E, McClellan J H. Joint seismic data denoising and interpolation with double-sparsity dictionary learning[J]. Journal of Geophysics and Engineering, 2017, 14(4): 802-810.
+[69]	Dong W, Shi G, Li X. Nonlocal image restoration with bilateral variance estimation: a low-rank approach[J]. IEEE transactions on image processing, 2012, 22(2): 700-711.
+[70]	Zhou J X, Lu W, He J, et al. A data-dependent Fourier filter based on image segmentation for random seismic noise attenuation[J]. Journal of Applied Geophysics, 2015, 114: 224-231.
+[71]	Canales L L. Random noise reduction[M]//SEG Technical Program Expanded Abstracts 1984. Society of Exploration Geophysicists, 1984: 525-527.
+[72]	魏海涛, 陆文凯, 郑晓东. 基于 FX 域预测和全变分的串行滤波器[J]. 石油地球物理勘探, 2011, 46(5): 700-704.
+[73]	国九英, 周兴元. 用 fx 域预测技术消除随机噪音[J]. 石油地球物理勘探, 1992, 27(5): 655-661.
+[74]	Backus G E, Gilbert J F. Numerical applications of a formalism for geophysical inverse problems[J]. Geophysical Journal International, 1967, 13(1-3): 247-276.
+[75]	Backus G, Gilbert F. The resolving power of gross earth data[J]. Geophysical Journal International, 1968, 16(2): 169-205.
+[76]	Liu Z, Liu J. Seismic-controlled nonlinear extrapolation of well parameters using neural networks[J]. Geophysics, 1998, 63(6): 2035-2041.
+[77]	陆文凯, 李衍达, 牟永光. 误差反传播神经网络法地震反演[J]. 地球物理学报, 1996 (S1): 292-301.
+[78]	周竹生, 周熙襄. 宽带约束反演方法[J]. 石油地球物理勘探, 1993, 28(5): 523-536.
+[79]	刘百红, 李建华. 测井和地震资料宽带约束反演的应用[J]. 石油物探, 2004, 43(1): 76-79, 3.
+[80]	Chopra S, Marfurt K, Sharma R. Unsupervised machine learning facies classification in the Delaware Basin and its comparison with supervised Bayesian facies classification[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2619-2623.
+[81]	Goodfellow I, Pouget-Abadie J, Mirza M, et al. Generative adversarial nets[C]//Advances in neural information processing systems. 2014: 2672-2680.
+[82]	Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
+[83]	Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015: 234-241.
+[84]	Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 1-9.
+[85]	Hochreiter S, Schmidhuber J. Long short-term memory[J]. Neural computation, 1997, 9(8): 1735-1780.
+[86]	Graves A, Schmidhuber J. Framewise phoneme classification with bidirectional LSTM and other neural network architectures[J]. Neural networks, 2005, 18(5-6): 602-610.
+[87]	Dey R, Salemt F M. Gate-variants of gated recurrent unit (GRU) neural networks[C]//2017 IEEE 60th international midwest symposium on circuits and systems (MWSCAS). IEEE, 2017: 1597-1600.
+[88]	Mao X, Shen C, Yang Y B. Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections[C]//Advances in neural information processing systems. 2016: 2802-2810.
+[89]	Zhang K, Zuo W, Chen Y, et al. Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising[J]. IEEE Transactions on Image Processing, 2017, 26(7): 3142-3155.
+[90]	Guo S, Yan Z, Zhang K, et al. Toward convolutional blind denoising of real photographs[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 1712-1722.
+[91]	Chen J, Chen J, Chao H, et al. Image blind denoising with generative adversarial network based noise modeling[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 3155-3164.
+[92]	Zhang M, Liu Y, Bai M, et al. Random Noise Attenuation Using Deep Convolutional Autoencoder[C]//81st EAGE Conference and Exhibition 2019. 2019.
+[93]	Das V, Pollack A, Wollner U, et al. Convolutional neural network for seismic impedance inversion[J]. Geophysics, 2019, 84(6): 1-66.
+[94]	Mustafa A, Alfarraj M, AlRegib G. Estimation of Acoustic Impedance from Seismic Data using Temporal Convolutional Network[J]. arXiv preprint arXiv:1906.02684, 2019.
+[95]	Martin G S, Wiley R, Marfurt K J. Marmousi2: An elastic upgrade for Marmousi[J]. The Leading Edge, 2006, 25(2): 156-166.
+[96]	Wang K, Bandura L, Bevc D, et al. End-to-end deep neural network for seismic inversion[C]//SEG International Exposition and Annual Meeting. Society of Exploration Geophysicists, 2019.
+[97]	Li Q, Luo Y. Using GAN priors for ultrahigh resolution seismic inversion[M]//SEG Technical Program Expanded Abstracts 2019. Society of Exploration Geophysicists, 2019: 2453-2457.
+[98]	彭才, 朱仕军, 孙建库, 等. 基于独立成分分析的地震数据去噪[J]. 勘探地球物理进展, 2007, 30(1): 30-32.
+[99]	戴永寿, 王晓波, 丁进杰, 等. 自适应分段的时变子波估计方法[J]. 石油地球物理勘探, 2015, 50(4): 607-612.
+[100]	冯玮, 胡天跃, 姚逢昌, 等. 非稳态地震记录时变子波估计[J]. 地球物理学报, 2017, 60(1): 305-315.
+[101]	孙成禹. 空变地震子波提取方法研究[J]. 石油大学学报: 自然科学版, 2000, 24(1): 77-80.
+[102]	夏洪瑞, 周开明, 黄桥, 等. 波阻抗反演技术中空变子波的求取[J]. 石油物探, 2002, 41(4): 470-474.
